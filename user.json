@@ -13,7 +13,7 @@
         "id": 3,
         "name": "Vinyl Cafe, London"
       },
-      "start_time": "2019-07-05T13:00:00+01:00"
+      "start_time": "2019-07-05T13:00:00+01:00",
       "car_class": {
         "id": 9,
         "label": "Tesla Model 3 SR+"
@@ -25,7 +25,7 @@
         "registration_number": "EV19 TST",
         "image": null,
         "real_world_range": 220,
-        "last_energy_level": "72"
+        "last_energy_level": "72",
         "ev_access": [
           "tesla"
         ]
